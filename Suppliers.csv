@@ -1,0 +1,61 @@
+﻿SupplierID,SupplierName,City,State,SupplierRating
+1,Supplier 001,Jaipur,Rajasthan,3.04
+2,Supplier 002,Kochi,Kerala,3.41
+3,Supplier 003,Bengaluru,Karnataka,3.11
+4,Supplier 004,Pune,Maharashtra,4.29
+5,Supplier 005,Kolkata,West Bengal,2.99
+6,Supplier 006,Gurugram,Haryana,2.87
+7,Supplier 007,Pune,Maharashtra,3.28
+8,Supplier 008,Kolkata,West Bengal,4.12
+9,Supplier 009,Kolkata,West Bengal,3.24
+10,Supplier 010,Jaipur,Rajasthan,4.34
+11,Supplier 011,Gurugram,Haryana,3.28
+12,Supplier 012,Ahmedabad,Gujarat,3.41
+13,Supplier 013,Mumbai,Maharashtra,4.47
+14,Supplier 014,Nagpur,Maharashtra,4.34
+15,Supplier 015,Delhi,Delhi,3.41
+16,Supplier 016,Bengaluru,Karnataka,4.91
+17,Supplier 017,Delhi,Delhi,3.02
+18,Supplier 018,Gurugram,Haryana,3.01
+19,Supplier 019,Delhi,Delhi,4.13
+20,Supplier 020,Mumbai,Maharashtra,4.41
+21,Supplier 021,Kolkata,West Bengal,3.07
+22,Supplier 022,Gurugram,Haryana,2.97
+23,Supplier 023,Hyderabad,Telangana,4.62
+24,Supplier 024,Ahmedabad,Gujarat,4.75
+25,Supplier 025,Delhi,Delhi,4.07
+26,Supplier 026,Kochi,Kerala,2.95
+27,Supplier 027,Jaipur,Rajasthan,3.3
+28,Supplier 028,Hyderabad,Telangana,4.97
+29,Supplier 029,Bengaluru,Karnataka,4.71
+30,Supplier 030,Gurugram,Haryana,3.41
+31,Supplier 031,Jaipur,Rajasthan,4.64
+32,Supplier 032,Nagpur,Maharashtra,3.61
+33,Supplier 033,Bengaluru,Karnataka,4.27
+34,Supplier 034,Kochi,Kerala,4.86
+35,Supplier 035,Jaipur,Rajasthan,2.96
+36,Supplier 036,Jaipur,Rajasthan,3.18
+37,Supplier 037,Kochi,Kerala,3.34
+38,Supplier 038,Chennai,Tamil Nadu,3.63
+39,Supplier 039,Jaipur,Rajasthan,4.31
+40,Supplier 040,Bengaluru,Karnataka,4.31
+41,Supplier 041,Mumbai,Maharashtra,3.3
+42,Supplier 042,Mumbai,Maharashtra,4.57
+43,Supplier 043,Gurugram,Haryana,3.39
+44,Supplier 044,Bengaluru,Karnataka,4.81
+45,Supplier 045,Ahmedabad,Gujarat,4.73
+46,Supplier 046,Delhi,Delhi,3.27
+47,Supplier 047,Chennai,Tamil Nadu,3.67
+48,Supplier 048,Jaipur,Rajasthan,3.81
+49,Supplier 049,Hyderabad,Telangana,3.11
+50,Supplier 050,Kochi,Kerala,4.04
+51,Supplier 051,Hyderabad,Telangana,4.44
+52,Supplier 052,Gurugram,Haryana,4.78
+53,Supplier 053,Gurugram,Haryana,3.6
+54,Supplier 054,Nagpur,Maharashtra,3.92
+55,Supplier 055,Pune,Maharashtra,4.46
+56,Supplier 056,Pune,Maharashtra,3.14
+57,Supplier 057,Nagpur,Maharashtra,4.54
+58,Supplier 058,Gurugram,Haryana,4.11
+59,Supplier 059,Gurugram,Haryana,3.64
+60,Supplier 060,Chennai,Tamil Nadu,3.96
