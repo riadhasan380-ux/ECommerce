@@ -1,0 +1,23 @@
+SQL TRAINER PROJECT – DATABASE MAP
+
+Customers 1 ---- * Orders
+Stores    1 ---- * Orders
+Employees 1 ---- * Orders
+Orders    1 ---- * OrderDetails
+Products 1 ---- * OrderDetails
+Categories 1 ---- * Products
+Suppliers 1 ---- * Products
+Orders    1 ---- * Payments
+Orders    1 ---- * Shipments
+Orders    1 ---- * Returns
+Products 1 ---- * Returns
+Stores    1 ---- * Inventory
+Products 1 ---- * Inventory
+
+Suggested teaching sequence:
+Week 1: A1-A30
+Week 2: A31-A65
+Week 3: A66-A105
+Week 4: A106-A145
+Week 5: A146-A170
+Week 6: A171-A175 capstone

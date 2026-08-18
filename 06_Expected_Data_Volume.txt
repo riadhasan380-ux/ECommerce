@@ -1,0 +1,13 @@
+Approximate generated volumes:
+Customers: 30,000
+Categories: 10
+Suppliers: 60
+Products: 500
+Stores: 50
+Employees: 250
+Orders: 120,000
+OrderDetails: 300,000+
+Payments: 120,000
+Shipments: ~100,000
+Returns: ~4,000
+Inventory: 750,000
